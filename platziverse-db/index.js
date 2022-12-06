@@ -38,4 +38,4 @@ module.exports = async function (config) {
     Agent,
     Metric
   }
-}
+} 
